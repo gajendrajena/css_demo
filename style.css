@@ -1,0 +1,22 @@
+body{
+    
+}
+h1 {
+  color: yellow;
+  /* font-size: 26px; */
+}
+
+h1.red-color {
+  color: red;
+}
+
+h1.blue-color {
+  color: blue;
+}
+
+h1#green {
+  color: green;
+  /* font-size: 30px; */
+}
+
+
